@@ -3,7 +3,7 @@ import shutil
 
 # --- Configuration ---
 # !!! YOUR ACTUAL DOWNLOADS PATH !!!
-DOWNLOADS_DIR = "Download_folder_path_here" 
+DOWNLOADS_DIR = "/Users/raj/Downloads" 
 
 # Define where files should go based on their extension
 FILE_TYPES = {
