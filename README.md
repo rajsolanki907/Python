@@ -26,7 +26,7 @@ A Python utility to automatically organize your Downloads folder by file type.
 1. Clone or download this repository
 2. Navigate to the folder:
 ```bash
-cd /Users/raj/WebstormProjects/Python
+cd /dowload_folder/Desktop-Cleaner-Python-Script
 ```
 
 ## Configuration
